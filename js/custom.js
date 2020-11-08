@@ -12,8 +12,11 @@
 (function($) {
   'use strict';
   $(function() {
-    // Code here executes When the DOM is loaded...
+    $(document).on("contextmenu", function (event) {
+      event.preventDefault();
+    });
   });
+
   $(window).on('load', function() {
     // Code here executes When the page is loaded
   });
