@@ -208,7 +208,7 @@
 
     /*----------  About: Testimonials  ----------*/
 
-    var testimonials = tns({
+    /*var testimonials = tns({
       container: '#about .testimonials-section .my-slider',
       items: 2,
       gutter: 30,
@@ -230,7 +230,7 @@
       controls: false,
       autoHeight: true,
       navPosition: 'bottom'
-    });
+    });*/
 
     /*----------  About: Pricing  ----------*/
 
