@@ -1,0 +1,28 @@
+{
+  "name": "fathalfath30.github.io",
+  "version": "1.0.0",
+  "description": "Fathalfath30 personal porto",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@fathalfath30.github.com:fathalfath30/fathalfath30.github.io.git"
+  },
+  "author": "Fathalfath30 <alfath.dioni@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "engines": {
+    "node": ">=16.17.0"
+  },
+  "devDependencies": {
+    "commitizen": "^4.2.5",
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
